@@ -1,0 +1,20 @@
+[0.324s] Invoking command in '/root/ros2_ws/build/yolo_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/ros2_ws/install/yolo_detection:/opt/ros/jazzy /usr/bin/cmake --build /root/ros2_ws/build/yolo_msgs -- -j6 -l6
+[0.544s] Invoked command in '/root/ros2_ws/build/yolo_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/ros2_ws/install/yolo_detection:/opt/ros/jazzy /usr/bin/cmake --build /root/ros2_ws/build/yolo_msgs -- -j6 -l6
+[0.567s] Invoking command in '/root/ros2_ws/build/yolo_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/ros2_ws/install/yolo_detection:/opt/ros/jazzy /usr/bin/cmake --install /root/ros2_ws/build/yolo_msgs
+[0.590s] -- Install configuration: ""
+[0.602s] -- Up-to-date: /root/ros2_ws/install/yolo_msgs/share/ament_index/resource_index/package_run_dependencies/yolo_msgs
+[0.603s] -- Up-to-date: /root/ros2_ws/install/yolo_msgs/share/ament_index/resource_index/parent_prefix_path/yolo_msgs
+[0.603s] -- Up-to-date: /root/ros2_ws/install/yolo_msgs/share/yolo_msgs/environment/ament_prefix_path.sh
+[0.603s] -- Up-to-date: /root/ros2_ws/install/yolo_msgs/share/yolo_msgs/environment/ament_prefix_path.dsv
+[0.603s] -- Up-to-date: /root/ros2_ws/install/yolo_msgs/share/yolo_msgs/environment/path.sh
+[0.603s] -- Up-to-date: /root/ros2_ws/install/yolo_msgs/share/yolo_msgs/environment/path.dsv
+[0.603s] -- Up-to-date: /root/ros2_ws/install/yolo_msgs/share/yolo_msgs/local_setup.bash
+[0.603s] -- Up-to-date: /root/ros2_ws/install/yolo_msgs/share/yolo_msgs/local_setup.sh
+[0.603s] -- Up-to-date: /root/ros2_ws/install/yolo_msgs/share/yolo_msgs/local_setup.zsh
+[0.603s] -- Up-to-date: /root/ros2_ws/install/yolo_msgs/share/yolo_msgs/local_setup.dsv
+[0.603s] -- Installing: /root/ros2_ws/install/yolo_msgs/share/yolo_msgs/package.dsv
+[0.604s] -- Up-to-date: /root/ros2_ws/install/yolo_msgs/share/ament_index/resource_index/packages/yolo_msgs
+[0.604s] -- Up-to-date: /root/ros2_ws/install/yolo_msgs/share/yolo_msgs/cmake/yolo_msgsConfig.cmake
+[0.604s] -- Up-to-date: /root/ros2_ws/install/yolo_msgs/share/yolo_msgs/cmake/yolo_msgsConfig-version.cmake
+[0.604s] -- Up-to-date: /root/ros2_ws/install/yolo_msgs/share/yolo_msgs/package.xml
+[0.611s] Invoked command in '/root/ros2_ws/build/yolo_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/ros2_ws/install/yolo_detection:/opt/ros/jazzy /usr/bin/cmake --install /root/ros2_ws/build/yolo_msgs

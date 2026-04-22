@@ -1,0 +1,26 @@
+[1.337s] Invoking command in '/root/ros2_ws/src/yolo_detection': PYTHONPATH=/root/ros2_ws/build/yolo_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros2_ws/install/yolo_detection/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/yolo_detection build --build-base /root/ros2_ws/build/yolo_detection/build install --record /root/ros2_ws/build/yolo_detection/install.log --single-version-externally-managed
+[1.612s] running egg_info
+[1.655s] writing ../../build/yolo_detection/yolo_detection.egg-info/PKG-INFO
+[1.657s] writing dependency_links to ../../build/yolo_detection/yolo_detection.egg-info/dependency_links.txt
+[1.657s] writing entry points to ../../build/yolo_detection/yolo_detection.egg-info/entry_points.txt
+[1.657s] writing requirements to ../../build/yolo_detection/yolo_detection.egg-info/requires.txt
+[1.657s] writing top-level names to ../../build/yolo_detection/yolo_detection.egg-info/top_level.txt
+[1.681s] /usr/lib/python3/dist-packages/pbr/git.py:28: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+[1.681s]   import pkg_resources
+[2.200s] reading manifest file '../../build/yolo_detection/yolo_detection.egg-info/SOURCES.txt'
+[2.202s] writing manifest file '../../build/yolo_detection/yolo_detection.egg-info/SOURCES.txt'
+[2.202s] running build
+[2.202s] running build_py
+[2.202s] copying yolo_detection/__init__.py -> /root/ros2_ws/build/yolo_detection/build/lib/yolo_detection
+[2.208s] copying yolo_detection/yolo_node.py -> /root/ros2_ws/build/yolo_detection/build/lib/yolo_detection
+[2.210s] running install
+[2.214s] running install_lib
+[2.257s] copying /root/ros2_ws/build/yolo_detection/build/lib/yolo_detection/yolo_node.py -> /root/ros2_ws/install/yolo_detection/lib/python3.12/site-packages/yolo_detection
+[2.258s] byte-compiling /root/ros2_ws/install/yolo_detection/lib/python3.12/site-packages/yolo_detection/yolo_node.py to yolo_node.cpython-312.pyc
+[2.259s] running install_egg_info
+[2.280s] removing '/root/ros2_ws/install/yolo_detection/lib/python3.12/site-packages/yolo_detection-0.0.1-py3.12.egg-info' (and everything under it)
+[2.282s] Copying ../../build/yolo_detection/yolo_detection.egg-info to /root/ros2_ws/install/yolo_detection/lib/python3.12/site-packages/yolo_detection-0.0.1-py3.12.egg-info
+[2.286s] running install_scripts
+[2.321s] Installing yolo_node script to /root/ros2_ws/install/yolo_detection/lib/yolo_detection
+[2.321s] writing list of installed files to '/root/ros2_ws/build/yolo_detection/install.log'
+[2.377s] Invoked command in '/root/ros2_ws/src/yolo_detection' returned '0': PYTHONPATH=/root/ros2_ws/build/yolo_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros2_ws/install/yolo_detection/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/yolo_detection build --build-base /root/ros2_ws/build/yolo_detection/build install --record /root/ros2_ws/build/yolo_detection/install.log --single-version-externally-managed

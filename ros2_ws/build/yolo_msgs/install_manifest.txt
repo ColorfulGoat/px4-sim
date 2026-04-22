@@ -1,0 +1,15 @@
+/root/ros2_ws/install/yolo_msgs/share/ament_index/resource_index/package_run_dependencies/yolo_msgs
+/root/ros2_ws/install/yolo_msgs/share/ament_index/resource_index/parent_prefix_path/yolo_msgs
+/root/ros2_ws/install/yolo_msgs/share/yolo_msgs/environment/ament_prefix_path.sh
+/root/ros2_ws/install/yolo_msgs/share/yolo_msgs/environment/ament_prefix_path.dsv
+/root/ros2_ws/install/yolo_msgs/share/yolo_msgs/environment/path.sh
+/root/ros2_ws/install/yolo_msgs/share/yolo_msgs/environment/path.dsv
+/root/ros2_ws/install/yolo_msgs/share/yolo_msgs/local_setup.bash
+/root/ros2_ws/install/yolo_msgs/share/yolo_msgs/local_setup.sh
+/root/ros2_ws/install/yolo_msgs/share/yolo_msgs/local_setup.zsh
+/root/ros2_ws/install/yolo_msgs/share/yolo_msgs/local_setup.dsv
+/root/ros2_ws/install/yolo_msgs/share/yolo_msgs/package.dsv
+/root/ros2_ws/install/yolo_msgs/share/ament_index/resource_index/packages/yolo_msgs
+/root/ros2_ws/install/yolo_msgs/share/yolo_msgs/cmake/yolo_msgsConfig.cmake
+/root/ros2_ws/install/yolo_msgs/share/yolo_msgs/cmake/yolo_msgsConfig-version.cmake
+/root/ros2_ws/install/yolo_msgs/share/yolo_msgs/package.xml
