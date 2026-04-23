@@ -1,7 +1,6 @@
-# PX4 Perception – Übungsblatt 08
+# PX4 Perception
 
 **DevOps for Cyber-Physical Systems (HS 2026)**  
-**Submission:** Donnerstag 23.04.2026  
 **Repository:** https://github.com/ColorfulGoat/px4-sim
 
 ---
@@ -311,10 +310,3 @@ Run in PX4 console:
 param set COM_ARM_WO_GPS 1
 param set COM_RC_IN_MODE 4
 ```
-
----
-
-## Author
-
-Repository: https://github.com/ColorfulGoat/px4-sim  
-Course: DevOps for Cyber-Physical Systems (HS 2026) — Universität Bern
