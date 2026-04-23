@@ -155,7 +155,7 @@ It subscribes to the drone's RGB camera topic, runs YOLOv8n inference on each fr
 
 ### Visualizing Detections
 
-Inside the NoVNC desktop, open a terminal and run:
+Open a new terminal and run:
 
 ```bash
 source /opt/ros/jazzy/setup.bash
@@ -168,7 +168,7 @@ Select `/yolo/detection_image` from the dropdown to see the live annotated feed.
 ### Model & Performance
 
 - Model: YOLOv8n (nano) — optimized for CPU inference
-- Confidence threshold: 0.1
+- Confidence threshold: 0.1 (because gazebo has not detailed 3D renders)
 - Average latency: ~400–600ms (CPU only, no GPU in container)
 - Detected object classes include: person, car, and other COCO dataset classes
 
@@ -189,9 +189,9 @@ gz service -s /world/baylands/create \
 ```
 
 ### Screenshots
-
-> Add your YOLO detection screenshots here.  
-> Example: `![YOLO Detection](screenshots/yolo_detection.png)`
+ 
+> ![YOLO Detection](screenshots/sc1.png)
+> ![YOLO Detection](screenshots/sc2.png)
 
 ---
 
@@ -223,7 +223,7 @@ The node uses scikit-learn's `RANSACRegressor` to fit a plane model `z = ax + by
 
 ### Visualizing in RViz2
 
-Inside the NoVNC desktop, open a terminal and run:
+In a new terminal run:
 
 ```bash
 source /opt/ros/jazzy/setup.bash
@@ -238,9 +238,10 @@ Configure RViz2:
 4. Set obstacle cloud color to **red** and ground cloud color to **green**
 
 ### Screenshots
+> ## The object detected is a car
 
-> Add your RViz2 point cloud screenshots here.  
-> Example: `![Point Cloud RViz2](screenshots/rviz2_pointcloud.png)`
+> ## The **green** color represents obstacles and the **red** the ground
+> ![Point Cloud RViz2](screenshots/sc3.png)
 
 ---
 
